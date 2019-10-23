@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactproductslist/static/css/main.738a2069.chunk.css",
+    "main.css": "/reactproductslist/static/css/main.cc1b932b.chunk.css",
     "main.js": "/reactproductslist/static/js/main.c7a40bfb.chunk.js",
     "main.js.map": "/reactproductslist/static/js/main.c7a40bfb.chunk.js.map",
     "runtime-main.js": "/reactproductslist/static/js/runtime-main.e2114aef.js",
@@ -9,10 +9,10 @@
     "static/js/2.426ebbbc.chunk.js": "/reactproductslist/static/js/2.426ebbbc.chunk.js",
     "static/js/2.426ebbbc.chunk.js.map": "/reactproductslist/static/js/2.426ebbbc.chunk.js.map",
     "index.html": "/reactproductslist/index.html",
-    "precache-manifest.b58b06cf24241f9ddbb46ed86b15c448.js": "/reactproductslist/precache-manifest.b58b06cf24241f9ddbb46ed86b15c448.js",
+    "precache-manifest.c10fc16d71a09f90b34999b0a65afd21.js": "/reactproductslist/precache-manifest.c10fc16d71a09f90b34999b0a65afd21.js",
     "service-worker.js": "/reactproductslist/service-worker.js",
     "static/css/2.4299ff6f.chunk.css.map": "/reactproductslist/static/css/2.4299ff6f.chunk.css.map",
-    "static/css/main.738a2069.chunk.css.map": "/reactproductslist/static/css/main.738a2069.chunk.css.map",
+    "static/css/main.cc1b932b.chunk.css.map": "/reactproductslist/static/css/main.cc1b932b.chunk.css.map",
     "static/media/semantic.min.css": "/reactproductslist/static/media/outline-icons.ef60a4f6.woff",
     "static/media/logo.svg": "/reactproductslist/static/media/logo.25bf045c.svg",
     "static/media/olay1.webp": "/reactproductslist/static/media/olay1.885ec9ee.webp",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.e2114aef.js",
     "static/css/2.4299ff6f.chunk.css",
     "static/js/2.426ebbbc.chunk.js",
-    "static/css/main.738a2069.chunk.css",
+    "static/css/main.cc1b932b.chunk.css",
     "static/js/main.c7a40bfb.chunk.js"
   ]
 }
