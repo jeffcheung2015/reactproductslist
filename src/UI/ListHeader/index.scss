@@ -1,0 +1,36 @@
+.div-indexHeader-wrapper{
+  .span-header{
+    display: table;
+    margin: 35px 10px 10px;
+    color: #666666;
+    font-size: 14px;
+  }
+
+  .div-viewOptions-container{
+    display: inline-flex;
+    width: 100%;
+    .div-searchSelection-container{
+      margin: 0px auto 0px 10px;
+      .Label-sortTypeTab{
+        border: 1px solid #000000;
+        border-radius: 15px;
+        line-height: 0.7rem;
+        font-size: 0.9rem;
+        padding: 8px;
+        &:nth-child(2){
+          background: #FFFFFF;
+        }
+      }
+    }
+
+    .div-viewSelect-container{
+      margin: 0px 5px;
+      .Icon-viewSelect{
+        color: #BBBBBB;
+        font-size: x-large;
+        height: 100%;
+      }
+
+    }
+  }
+}

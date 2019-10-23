@@ -1,0 +1,72 @@
+.div-listContainer-wrapper{
+  margin-top: 1.6em;
+  font-family: "Helvetica";
+  .Grid-listContainer{
+    margin-right: 5px;
+    margin-top: 0px;
+    .row{
+      padding-top: 0px;
+    }
+    .Image-prodImg{
+      margin: auto;
+      max-height: 200px;
+    }
+    .div-prodCommon{
+      text-align:left;
+    }
+    .div-prodName{
+      color: #000000;
+      font-size: 0.9em;
+      font-weight: 600;
+    }
+    .div-prodDesc{
+      color: #7c7c7c;
+      font-size: 0.6em;
+      line-height: 140%;
+      margin: 12px 0px;
+    }
+    .div-suggestPrice{
+      color: #000000;
+      font-size: 0.7em;
+      font-weight: 500;
+      margin-bottom: 8px;
+      .span-price{
+        font-weight: bold;
+        font-size: 1.1em;
+      }
+    }
+    .Rating-stars{
+      display: table !important;
+      margin-left: -2px;
+      margin-bottom: -4px;
+      label{
+        width: 17px;
+        i{
+          font-size: 21px;
+        }
+      }
+    }
+    .GridRow-prodComparison{
+      position: relative;
+      .Label-prodComparison{
+        &:active{
+          background: #DEB887;
+          text-decoration: underline;
+          color: #FFFFFF;
+          user-select: none;
+        }
+        left: 0px;
+        margin: 3px 0px;
+        padding: 6px 0px 5px;
+        border-radius: 16px;
+        font-weight: 500;
+        color: #555555;
+        font-size: 0.8em;
+        border: 1px solid #000000;
+        background-color: #FFFFFF;
+        display: block;
+        width: 54%;
+      }
+    }
+  }
+}
